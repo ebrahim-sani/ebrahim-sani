@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there Ibrahim Sani👋
 
-<!--
-**ebrahim-sani/ebrahim-sani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front End Developer, ReactJs Dev. & Web3 enthusiast!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- ⚡ Persionate about Web Technologies!
+- 🔭 Actively learning new things in the web development industry.
+- :small_blue_diamond:
+- 🌱 I’m currently Moralis, Ethers & Hardhat ...
+- 🤔 I’m currently open for intern or freelance Project.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Frontend
+:white_check_mark:ReactJs, NextJs, HTML5, JavaScript, ES6/7, CSS, Tailwindcss, Sass, Sanity
+
+# Languages & Tools:
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
