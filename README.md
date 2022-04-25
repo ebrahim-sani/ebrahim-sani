@@ -1,5 +1,4 @@
-## Hi there, 
-# I'm Ibrahim Sani👋
+# Hi there, I'm Ibrahim Sani👋
 
 ## I'm a Front End Developer, ReactJs Dev. & Web3 enthusiast!
 
