@@ -3,11 +3,11 @@
 ## I'm a Front End Developer, ReactJs Dev. & Web3 enthusiast!
 
 - :mortar_board:Studies Software Engineering at University (NAUB).
-- ⚡ Persionate about Web Technologies!
+- ⚡ Passionate about Web Technologies!
 - 🔭 Actively learning new things in the web development industry.
 - 🌱 I’m currently learning Moralis, Ethers & Hardhat.
-- 🤔 I’m currently open for intern or freelance Project.
-- 📫 How can reach me on my [Linkedin Profile](https://www.linkedin.com/in/ebrahim-sani).
+- 🤔 I’m currently open for an intern or freelance Project.
+- 📫 You can reach out to me on my [Linkedin Profile](https://www.linkedin.com/in/ebrahim-sani).
 
 ### Frontend
 :white_check_mark:ReactJs, NextJs, HTML5, JavaScript, ES6/7, CSS, Tailwindcss, Sass, Sanity
