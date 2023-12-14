@@ -1,8 +1,9 @@
-# Hi there, I'm Ibrahim Sani👋
+# Hi there, 
+# I'm Ibrahim Sani👋
 
 ## I'm a Front End Developer, ReactJs Dev. & Web3 enthusiast!
 
-- :mortar_board:Studies Software Engineering at University (NAUB).
+- :mortar_board: Studies Software Engineering at University (NAUB).
 - ⚡ Passionate about Web Technologies!
 - 🔭 Actively learning new things in the web development industry.
 - 🌱 I’m currently learning Moralis, Ethers & Hardhat.
@@ -10,7 +11,7 @@
 - 📫 You can reach out to me on my [Linkedin Profile](https://www.linkedin.com/in/ebrahim-sani).
 
 ### Frontend
-:white_check_mark:ReactJs, NextJs, HTML5, JavaScript, ES6/7, CSS, Tailwindcss, Sass, Sanity
+:white_check_mark: ReactJs, NextJs, HTML5, JavaScript, ES6/7, CSS, Tailwindcss, Sass, Sanity
 
 ### Languages and Tools:
 
