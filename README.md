@@ -6,8 +6,8 @@
 - :mortar_board: Studies Software Engineering at University (NAUB).
 - ⚡ Passionate about Web Technologies!
 - 🔭 Actively learning new things in the web development industry.
-- 🌱 I’m currently learning Moralis, Ethers & Hardhat.
-- 🤔 I’m currently open for an intern or freelance Project.
+- 🌱 I’m currently learning Nestjs & Brainjs.
+- 🤔 I’m currently open for freelance Project.
 - 📫 You can reach out to me on my [Linkedin Profile](https://www.linkedin.com/in/ebrahim-sani).
 
 ### Stacks
