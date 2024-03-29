@@ -1,7 +1,7 @@
 # Hi there, 
 # I'm Ibrahim Sani👋
 
-## Software Engineer (Frontend)
+## Software Engineer 
 
 - :mortar_board: Studies Software Engineering at University (NAUB).
 - ⚡ Passionate about Web Technologies!
