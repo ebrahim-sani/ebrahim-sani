@@ -35,9 +35,9 @@
 
 <p align="center">
   <a>
-    <img height="120" width="150" src="https://github.com/V0410/V0410/blob/main/left.png">
+    <img height="120" width="150" src="https://github.com/ebrahim-sani/ebrahim-sani/blob/main/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahim-sani&theme=dark"/>
-    <img height="120" width="150" src="https://github.com/V0410/V0410/blob/main/right.png">
+    <img height="120" width="150" src="https://github.com/ebrahim-sani/ebrahim-sani/blob/main/right.png">
   </a>
 </p>
 
