@@ -1,17 +1,16 @@
-# Hi there, 
-# I'm Ibrahim Sani👋
+<h1 align="center">👋 Hi! There. 👋</h1>
+<h3 align="center">An Experienced Full Stack Developer</h3>
 
-## Software Engineer 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidenwong812&label=Profile%20views&color=0e75b6&style=flat" alt="aidenwong812" /> </p>
 
-- :mortar_board: Studies Software Engineering at University (NAUB).
+- :mortar_board: Studied Software Engineering at University (NAUB).
 - ⚡ Passionate about Web Technologies!
 - 🔭 Actively learning new things in the web development industry.
-- 🌱 I’m currently learning Nestjs & Brainjs.
 - 🤔 I’m currently open for freelance Project.
 - 📫 You can reach out to me on my [Linkedin Profile](https://www.linkedin.com/in/ebrahim-sani).
 
 ### Stacks
-:white_check_mark: ReactJs, NextJs, HTML5, JavaScript, ES6/7, CSS, Tailwindcss, Sass, Sanity, Postgresql, MongoDB, Hygraph CMS
+:white_check_mark: ReactJs, NextJs, HTML5, JavaScript, ES6/7, CSS, Prisma, Drizzle, Tailwindcss, Sass, Sanity, Postgresql, MongoDB, etc
 
 ### Languages and Tools:
 
@@ -28,4 +27,20 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Sanity" width="26px" src="https://avatars.githubusercontent.com/u/17177659?s=280&v=4" />
 
-<br />
+<br>
+<p align="center">
+<p><img align="left" src="https://github-readme-stats-eight-ruby-89.vercel.app/api/top-langs?username=ebrahim-sani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=ebrahim-sani&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
+<br><br><br><br><br><br><br><br><br>
+
+<p align="center">
+  <a>
+    <img height="120" width="150" src="https://github.com/V0410/V0410/blob/main/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=V0410&theme=dark"/>
+    <img height="120" width="150" src="https://github.com/V0410/V0410/blob/main/right.png">
+  </a>
+</p>
+
+<br>
+
+![footer](https://github.com/V0410/V0410/blob/main/footer.jpg)
