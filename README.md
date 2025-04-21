@@ -10,7 +10,7 @@
 - 📫 You can reach out to me on my [Linkedin Profile](https://www.linkedin.com/in/ebrahim-sani).
 
 ### Stacks
-:white_check_mark: ReactJs, NextJs, HTML5, JavaScript, ES6/7, CSS, Prisma, Drizzle, Tailwindcss, Sass, Sanity, Postgresql, MongoDB, etc
+:white_check_mark: ReactJs, NextJs, NestJs, React Native, HTML5, JavaScript, ES6/7, CSS, Prisma, Drizzle, Tailwindcss, Sass, Sanity, Postgresql, MongoDB, etc
 
 ### Languages and Tools:
 
