@@ -1,46 +1,128 @@
-<h1 align="center">👋 Hi! There. 👋</h1>
-<h3 align="center">An Experienced Full Stack Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=4&section=header"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidenwong812&label=Profile%20views&color=0e75b6&style=flat" alt="aidenwong812" /> </p>
+<br/>
 
-- :mortar_board: Studied Software Engineering at University (NAUB).
-- ⚡ Passionate about Web Technologies!
-- 🔭 Actively learning new things in the web development industry.
-- 🤔 I’m currently open for freelance Project.
-- 📫 You can reach out to me on my [Linkedin Profile](https://www.linkedin.com/in/ebrahim-sani).
+```
+Ibrahim Sani  ·  Full-Stack Engineer  ·  Abuja, Nigeria
+```
 
-### Stacks
-:white_check_mark: ReactJs, NextJs, NestJs, React Native, HTML5, JavaScript, ES6/7, CSS, Prisma, Drizzle, Tailwindcss, Sass, Sanity, Postgresql, MongoDB, etc
+<br/>
 
-### Languages and Tools:
+<div align="center">
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="26px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Tailwindcss" width="26px" src="https://miro.medium.com/max/450/1*9V4r2JpA02Jzu0Tro-i6hg.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="Sanity" width="26px" src="https://avatars.githubusercontent.com/u/17177659?s=280&v=4" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebrahim-sani)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-ebrahim--sani-181717?style=flat-square&logo=github)](https://github.com/ebrahim-sani)
+&nbsp;
+[![Visitors](https://komarev.com/ghpvc/?username=ebrahim-sani&color=6e40c9&style=flat-square&label=profile+views)](https://github.com/ebrahim-sani)
 
-<br>
-<p align="center">
-<p><img align="left" src="https://github-readme-stats-eight-ruby-89.vercel.app/api/top-langs?username=ebrahim-sani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=ebrahim-sani&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
-<br><br><br><br><br><br><br><br><br>
+</div>
 
-<p align="center">
-  <a>
-    <img height="120" width="150" src="https://github.com/ebrahim-sani/ebrahim-sani/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahim-sani&theme=dark"/>
-    <img height="120" width="150" src="https://github.com/ebrahim-sani/ebrahim-sani/blob/main/right.png">
-  </a>
-</p>
+<br/>
 
-<br>
+---
 
-![footer](https://github.com/V0410/V0410/blob/main/footer.jpg)
+I build **backend systems that hold under load** and ship full-stack products end-to-end.  
+My work lives at the intersection of clean architecture, reliable APIs, and developer experience.
+
+> Currently focused on distributed systems, event-driven design, and scalable data pipelines.
+
+---
+
+<br/>
+
+## 〈 Engineering Stack 〉
+
+<br/>
+
+**`Backend`**
+
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20API-%236e40c9.svg?style=flat-square&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23010101.svg?style=flat-square&logo=socketdotio&logoColor=white)
+
+<br/>
+
+**`Frontend`**
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<br/>
+
+**`Data`**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle%20ORM-%23C5F74F.svg?style=flat-square&logo=drizzle&logoColor=black)
+
+<br/>
+
+**`Infrastructure`**
+
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+
+<br/>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebrahim-sani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&title_color=c9d1d9&icon_color=6e40c9&text_color=8b949e&bg_color=0d1117"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahim-sani&layout=compact&hide_border=true&count_private=true&theme=github_dark&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahim-sani&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6e40c9&fire=6e40c9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ebrahim-sani&bg_color=0d1117&color=c9d1d9&line=6e40c9&point=6e40c9&area=true&area_color=6e40c9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<br/>
+
+## Principles
+
+```
+→  Write code for the next engineer, not just the machine
+→  Measure before optimizing. Optimize where it matters
+→  APIs are contracts. Design them with permanence in mind
+→  Prefer boredom in infrastructure. Excitement belongs in product
+```
+
+<br/>
+
+---
+
+<div align="center">
+
+<sub>Software Engineering · NAUB &nbsp;|&nbsp; Open to remote & contract opportunities</sub>
+
+</div>
