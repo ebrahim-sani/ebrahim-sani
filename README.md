@@ -80,14 +80,6 @@ My work lives at the intersection of clean architecture, reliable APIs, and deve
 
 ## GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebrahim-sani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&title_color=c9d1d9&icon_color=6e40c9&text_color=8b949e&bg_color=0d1117"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahim-sani&layout=compact&hide_border=true&count_private=true&theme=github_dark&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117"/>
-
-</div>
-
 <br/>
 
 <div align="center">
